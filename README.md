@@ -29,8 +29,12 @@ data/sample_video.mp4
 python gpt4o-vision-video-analysis.py
 ```
 
-# Output
+# Output 1
 
 ![Output 1: ](https://github.com/skramana1973/gpt4o-video-analysis/blob/main/output/output1.png?raw=true)
+
+# Output 2
+
+
 ![Output 2: ](https://github.com/skramana1973/gpt4o-video-analysis/blob/main/output/output2.png?raw=true)
 
