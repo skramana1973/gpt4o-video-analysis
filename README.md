@@ -28,3 +28,9 @@ data/sample_video.mp4
 ```bash
 python gpt4o-vision-video-analysis.py
 ```
+
+# Output
+
+![Output 1: ](https://github.com/skramana1973/gpt4o-video-analysis/tree/main/output/output1.png)
+![Output 2: ](https://github.com/skramana1973/gpt4o-video-analysis/tree/main/output/output2.png)
+

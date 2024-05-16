@@ -28,7 +28,9 @@ PROMPT_MESSAGES = [
     {
         "role": "user",
         "content": [
-            "These are frames from a video that I want to depict. Explain what is in the video in a summary paragraph.",
+            # "These are frames from a video that I want to depict. Explain what is in the video in a summary paragraph.",
+            # "These are frames from a video that I want to analyse. Please explain what is in the video in a summary with 5 bullet points each not more than 15 words.",
+            "These are frames from a video that I want to analyse. Please explain what is in the video in a summary in bullet points in 100 words.",
             *map(lambda x: {"image": x, "resize": 768}, base64Frames[0::150]),
         ],
     },
